@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "266849441724",
+    "project_id": "bda2-4964f",
+    "storage_bucket": "bda2-4964f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266849441724:android:8863a7d8a80c36a3053db9",
+        "android_client_info": {
+          "package_name": "com.example.bda2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266849441724-f6akkg5d7fp8vdbi7h7is6sq03atee11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD319BZnsumbj60BE_n02QRVuaZx-tnobo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266849441724-f6akkg5d7fp8vdbi7h7is6sq03atee11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
